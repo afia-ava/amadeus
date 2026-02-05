@@ -4,6 +4,10 @@
 
 - [System Design](#system-design)
 
+- [Components](#components)
+
+- [CAD Model](#cad-model)
+
 ## Introduction
 Amadeus is an observational AI assistant that learns from you by watching and asking the right questions.
 
@@ -19,3 +23,24 @@ The main domain for system domain questions are memory sysrems and knowledge rep
 - What triggers memory consolidation?
 - How to represent entities changing over time?
 
+## Components
+1. Raspberry Pi 5 Board
+2. Raspberry Pi Halio with 13 TOPs
+3. Storage
+4. Sensors for vision, depth, audio, power
+5. CAD model
+
+## CAD model 
+I'm planning to model a contrainer with threaded opening so that it's fairly easy to do maintenance if needed. 
+
+3D print CAD model expectations:
+- Houses sensors, computer, and a screen/mic array
+- It can sit at level fields
+- Hole placements for cameras, microphones, sensors, ports
+- Airflow/thermal considerations for the compute module (like vent holes/fan mount)
+- Fit the Raspberry Pi + HAT + sensors (measure the sizes)
+- LED indicator (for status)
+  
+
+
+I believe this will be a fun and challenging project letting me learn a lot of new skills. If you have any feedback or wisdom to share, feel free to slack me at @afia ava. 
