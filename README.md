@@ -40,7 +40,7 @@ I'm planning to model a contrainer with threaded opening so that it's fairly eas
 - Airflow/thermal considerations for the compute module (like vent holes/fan mount)
 - Fit the Raspberry Pi + HAT + sensors (measure the sizes)
 - LED indicator (for status)
-  
 
+I have used some open sourced CAD models in my design to place all the components. All of the models has been sourced from [GrabCAD](https://grabcad.com/library) and [Printables](https://printables.com/). 
 
 I believe this will be a fun and challenging project letting me learn a lot of new skills. If you have any feedback or wisdom to share, feel free to slack me at @afia ava. 
