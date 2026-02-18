@@ -8,6 +8,9 @@
 
 - [CAD Model](#cad-model)
 
+![Amadeus1](/images/electrical-comp1.png)
+![Amadeus2](/images/electrical-comp2.png)
+
 ## Introduction
 Amadeus is an observational AI assistant that learns from you by watching and asking the right questions.
 
@@ -29,6 +32,7 @@ The main domain for system domain questions are memory sysrems and knowledge rep
 3. Storage
 4. Sensors for vision, depth, audio, power
 5. CAD model
+Details about components can be found in Bill of Materials (BOM) file. 
 
 ## CAD model 
 I'm planning to model a contrainer with threaded opening so that it's fairly easy to do maintenance if needed. 
